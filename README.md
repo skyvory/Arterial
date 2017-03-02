@@ -1,9 +1,14 @@
-﻿Art in scenery throughout a watchface, featuring:
+# Arterial
+
+## Description
+
+Art in scenery throughout a watchface, featuring:
 - Dynamic background of beautiful nature in supplement to differentiate the day between dawn, morning, midday, noon, afternoon, evening, and midnight.
 - Various cue of battery status with colored ribbon line around the bottom.
-- Custom digital numbers which permeate to the always-on display.
+- Custom digital numbers which permeate to the always-on surface.
 
-Vitality indicator (battery percentage):
+
+Vitality Indicator (battery percentage)
 90-100: green ribbon
 70-89: green + blue ribbons
 51-69: blue ribbon
